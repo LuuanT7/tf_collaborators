@@ -76,6 +76,10 @@ http://localhost:8080/api/collaborators/list?limit=5&field=name&direction=ASC
 🔍 Buscar colaborador por ID
 GET /api/collaborators/:id
 
+## Teste a API no Postman
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/interstellar-desert-954549/workspace/unifaat)
+
 🐘 Banco de Dados
 As credenciais e configurações do banco de dados são definidas no arquivo .env, com base no .env.exemplo.
 
