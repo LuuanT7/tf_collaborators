@@ -1,4 +1,4 @@
-import sequelize from '../../config/sequelize.js';
+import sequelize from '../../../config/sequelize.js';
 import { DataTypes } from 'sequelize';
 
 const CollaboratorsModel = sequelize.define("CollaboratorsTab", {
