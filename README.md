@@ -22,8 +22,8 @@ Clone este repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/sua-api-colaboradores.git
-cd sua-api-colaboradores
+git clone https://github.com/LuuanT7/tf_collaborators.git
+cd tf_collaborators
 Copie o arquivo .env.exemplo:
 
 bash
