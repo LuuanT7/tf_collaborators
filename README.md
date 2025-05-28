@@ -1,4 +1,5 @@
 🧠 Trabalhos finais Desenvolvimento Web
+
 Uma API REST simples para cadastro, listagem e busca de colaboradores, utilizando Node.js, PostgreSQL e Nginx com Docker.
 
 🚀 Stack utilizada
